@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\bin\Debug\net8.0\SumIntegerBin.exe
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\bin\Debug\net8.0\SumIntegerBin.deps.json
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\bin\Debug\net8.0\SumIntegerBin.runtimeconfig.json
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\bin\Debug\net8.0\SumIntegerBin.dll
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\bin\Debug\net8.0\SumIntegerBin.pdb
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\obj\Debug\net8.0\SumIntegerBin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\obj\Debug\net8.0\SumIntegerBin.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\obj\Debug\net8.0\SumIntegerBin.AssemblyInfo.cs
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\obj\Debug\net8.0\SumIntegerBin.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\obj\Debug\net8.0\SumIntegerBin.dll
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\obj\Debug\net8.0\refint\SumIntegerBin.dll
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\obj\Debug\net8.0\SumIntegerBin.pdb
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\obj\Debug\net8.0\SumIntegerBin.genruntimeconfig.cache
+C:\Users\Toshiba\Documents\Sites\SumIntegerBin\obj\Debug\net8.0\ref\SumIntegerBin.dll
